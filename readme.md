@@ -1,4 +1,5 @@
-https://www.youtube.com/playlist?list=PL9ueOBTaM3jRBBIgMvf42wL2gfGcSC1Jh
-https://drive.google.com/drive/folders/19T3eEJOMdsP-L4HRpcukk7KI6uskeKRf
-https://saadat-r-ahmed.notion.site/cse330spring2026
-https://atonurc.github.io/teaching/bracu/cse330/spring26
+- https://www.youtube.com/playlist?list=PL9ueOBTaM3jRBBIgMvf42wL2gfGcSC1Jh
+- https://drive.google.com/drive/folders/19T3eEJOMdsP-L4HRpcukk7KI6uskeKRf
+- https://saadat-r-ahmed.notion.site/cse330spring2026
+- https://atonurc.github.io/teaching/bracu/cse330/spring26
+- https://cse330-lectures.vercel.app/
